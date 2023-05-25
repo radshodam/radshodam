@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **linux , typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-zareai.vercel.app/ir](https://resume-phi-two.vercel.app/ir)
+- 👨‍💻 All of my projects are available at [https://portfolio-zareai.vercel.app/ir](https://portfolio-zareai.vercel.app/ir)
 
 - 💬 Ask me about **react , next js**
 
