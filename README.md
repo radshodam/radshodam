@@ -1,4 +1,4 @@
-[![MasterHead](https://www.worldbook.com/images/WBBlog_KidsCoding.jpg)](https://resume-phi-two.vercel.app/)
+[![MasterHead](https://www.worldbook.com/images/WBBlog_KidsCoding.jpg)](https://portfolio-zareai.vercel.app/)
 <h1 align="center">Hi 👋, I'm mohamad zareai</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **linux , typescript**
 
-- 👨‍💻 All of my projects are available at [https://resume-phi-two.vercel.app/ir](https://resume-phi-two.vercel.app/ir)
+- 👨‍💻 All of my projects are available at [https://portfolio-zareai.vercel.app/ir](https://resume-phi-two.vercel.app/ir)
 
 - 💬 Ask me about **react , next js**
 
