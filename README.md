@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif" alt="radshodam" /> </p>
 
-- 🌱 I’m currently learning **linux , typescript , Rust , Vue**
+- 🌱 I’m currently learning **linux , typescript ,React native ,Rust **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-zareai.vercel.app/ir](https://portfolio-zareai.vercel.app/ir)
 
