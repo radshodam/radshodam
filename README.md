@@ -15,7 +15,7 @@ I build scalable, high-performance web applications with a strong focus on clean
 - 🎓 Software Engineer with a Bachelor's degree
 - 💻 Specialized in modern frontend development
 - ⚡ Focused on performance, scalability, and clean code
-- 🌱 Currently learning: **TypeScript, React Native, Rust**
+- 🌱 Currently learning: **Python**
 - 💬 Ask me about: **React, Next.js**
 
 ---
