@@ -1,20 +1,67 @@
 <h1 align="center">Hi 👋, I'm Mohamad Zareai</h1>
 
 <p align="center">
-Frontend Developer • React • Next.js
+Software Engineer (B.Sc) • Next.js • React
 </p>
 
 <p align="center">
-Building clean, scalable and modern web experiences.
+I build scalable, high-performance web applications with a strong focus on clean architecture and user experience.
 </p>
 
 ---
 
 ### 🚀 About Me
 
+- 🎓 Software Engineer with a Bachelor's degree
+- 💻 Specialized in modern frontend development
+- ⚡ Focused on performance, scalability, and clean code
 - 🌱 Currently learning: **TypeScript, React Native, Rust**
 - 💬 Ask me about: **React, Next.js**
-- ⚡ Focused on: **Clean UI, Performance, Scalable Architecture**
+
+---
+
+### 💼 Experience
+
+#### 🏫 Kateb Platform (Islamic Azad University of Iran)
+- 🌐 https://kateb.iau.ir/
+- 🕒 ~2.5 years (Remote)
+
+Worked as a Frontend Developer on a large-scale educational platform.  
+Focused on building scalable features, improving performance, and delivering a clean user experience using **Next.js and modern frontend tools**.
+
+---
+
+#### 🚴 Nireeka (Canada)
+- 🌐 https://nireeka.com/
+- 🕒 2 years (Remote)
+
+Contributed to the frontend development of an international e-commerce platform in the electric bicycle industry.  
+Worked on UI improvements, API integrations, and maintaining production-level code.
+
+---
+
+#### 🧪 North Khorasan Science & Technology Park
+- 🕒 Internship + 1.5 years
+
+Started as an intern and continued as a frontend developer.  
+Gained hands-on experience in real-world projects, teamwork, and professional development practices.
+
+---
+
+### 🧠 What I Do
+
+- Build modern web applications using **Next.js & React**
+- Design clean, responsive user interfaces
+- Work with APIs and real-world scalable projects
+- Write maintainable and production-ready code
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,linux,mongodb,figma,postman" />
+</p>
 
 ---
 
@@ -24,14 +71,6 @@ Building clean, scalable and modern web experiences.
   <a href="https://linkedin.com/in/mohamad-zareai-aa34861b4" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,linux,mongodb,figma,postman" />
 </p>
 
 ---
