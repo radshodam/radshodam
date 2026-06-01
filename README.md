@@ -1,81 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mohamad Zareai</h1>
+# Hi 👋, I'm Mohamad Zareai
 
-<p align="center">
-Software Engineer (B.Sc) • Next.js • React
-</p>
+### Software Engineer (B.Sc) • Next.js • React
 
-<p align="center">
 I build scalable, high-performance web applications with a strong focus on clean architecture and user experience.
-</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge)](https://portfolio-zareai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohamad-zareai-aa34861b4)
 
 ---
 
-### 🚀 About Me
+## 🌟 Portfolio
+
+🔗 **Live Portfolio:** https://portfolio-zareai.vercel.app/
+
+Explore my projects, experience, and technical expertise in more detail.
+
+---
+
+## 🚀 About Me
 
 - 🎓 Software Engineer with a Bachelor's degree
 - 💻 Specialized in modern frontend development
 - ⚡ Focused on performance, scalability, and clean code
-- 🌱 Currently learning: **Python (focused on backend fundamentals)**
-- 💬 Ask me about: **React, Next.js**
+- 🌱 Currently learning **Python (focused on backend fundamentals)**
+- 💬 Ask me about **React, Next.js**
+- 📍 Open to remote opportunities and international collaborations
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-#### 🏫 Kateb Platform (Islamic Azad University of Iran)
+### 🏫 Kateb Platform (Islamic Azad University of Iran)
+
 - 🌐 https://kateb.iau.ir/
 - 🕒 ~2.5 years (Remote)
 
-Worked as a Frontend Developer on a large-scale educational platform.  
-Focused on building scalable features, improving performance, and delivering a clean user experience using **Next.js and modern frontend tools**.
+Worked as a Frontend Developer on a large-scale educational platform.
+
+Focused on building scalable features, improving performance, and delivering a clean user experience using **Next.js** and modern frontend tools.
 
 ---
 
-#### 🚴 Nireeka (Canada)
+### 🚴 Nireeka (Canada)
+
 - 🌐 https://nireeka.com/
 - 🕒 2 years (Remote)
 
-Contributed to the frontend development of an international e-commerce platform in the electric bicycle industry.  
-Worked on UI improvements, API integrations, and maintaining production-level code.
+Contributed to the frontend development of an international e-commerce platform in the electric bicycle industry.
+
+Worked on UI improvements, API integrations, performance optimization, and maintaining production-level code.
 
 ---
 
-#### 🧪 North Khorasan Science & Technology Park
+### 🧪 North Khorasan Science & Technology Park
+
 - 🕒 Internship + 1.5 years
 
-Started as an intern and continued as a frontend developer.  
-Gained hands-on experience in real-world projects, teamwork, and professional development practices.
+Started as an intern and continued as a Frontend Developer.
+
+Gained hands-on experience in real-world projects, teamwork, agile workflows, and professional software development practices.
 
 ---
 
-### 🧠 What I Do
+## 🧠 What I Do
 
 - Build modern web applications using **Next.js & React**
-- Design clean, responsive user interfaces
-- Work with APIs and real-world scalable projects
+- Design clean, responsive, and accessible user interfaces
+- Develop scalable frontend architectures
+- Integrate REST APIs and third-party services
+- Optimize application performance and SEO
 - Write maintainable and production-ready code
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,linux,mongodb,figma,postman" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,linux,mongodb,figma,postman)
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/mohamad-zareai-aa34861b4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
+- LinkedIn: https://linkedin.com/in/mohamad-zareai-aa34861b4
+- Portfolio: https://portfolio-zareai.vercel.app/
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=radshodam&show_icons=true&theme=tokyonight" height="150" />
